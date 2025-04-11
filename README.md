@@ -1,6 +1,6 @@
-# dice_roller_ar
+> Published to Google Play Store on April 11, 2025
+> Published through GitHub pages on April 11, 2025. `docs` folder contains webapp.
 
-Sure! Here's a polished and engaging **App Store description** for your mobile app, *Arabic Dice Roller*:
 
 ## 🎲 Arabic Dice Roller
 
