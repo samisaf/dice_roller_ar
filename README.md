@@ -1,5 +1,5 @@
 > Published to Google Play Store on April 11, 2025
-> Published through GitHub pages on April 11, 2025. `docs` folder contains webapp. https://samisaf.github.io/dice_roller_ar/
+> Published through Netlify on April 11, 2025. `docs` folder contains webapp. arabicdice.netlify.app
 
 
 ## 🎲 Arabic Dice Roller
