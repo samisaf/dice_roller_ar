@@ -8,7 +8,7 @@ import 'dice_svg.dart';
 import 'board_svg.dart';
 
 const String introduction =
-    "هذا هو التطبيق الأول الذي يسمح للمستخدمين برمي النرد إلكترونيًا بواجهة عربية فصحية";
+    "هذا التطبيق يسمح للمستخدمين برمي النرد إلكترونيًا بواجهة عربية فصحية";
 
 const List<String> numbersEnglish = [
   "Zero",
@@ -67,6 +67,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Dice App',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.brown),
